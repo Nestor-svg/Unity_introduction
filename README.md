@@ -7,4 +7,4 @@ El script `Coordenadas.cs` se agrega a un objeto en la escena, y se le asigna un
 
 A continuación se muestra una animación de la ejecución del script:
 
-![GIF de la ejecución](execution.gif)
+![GIF de la ejecución](Intrduccion_unity.gif)
